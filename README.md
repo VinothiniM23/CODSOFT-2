@@ -7,3 +7,7 @@ Explore the world of banking with the ATM Interface project! This GitHub reposit
 *   **Balance Inquiry**: Check your account balance on the fly.
 *   **Security Measures**: Implement security features such as PIN verification to ensure a secure banking experience.
 *   **Transaction History**: Keep track of your recent transactions for a comprehensive overview of your account activity.
+# Technologies Used
+*   **Java**: The core programming language used for implementing the ATM Interface logic.
+*   **NetBeans IDE 20**: The integrated development environment used for Java application development.
+*   **GitHub**: This repository is hosted on GitHub, providing version control and collaboration features
